@@ -11,8 +11,7 @@ A simple web-based healthcare data analysis tool built with **HTML**, **CSS**, a
   - Name
   - Age
   - Gender
-  - Symptoms
-  - Diagnosed disease (from a dropdown or free input)
+  - Conditions
 
 - 📊 **Real-Time Data Analysis**
   - Total number of patients
@@ -33,7 +32,7 @@ A simple web-based healthcare data analysis tool built with **HTML**, **CSS**, a
 ## 🧩 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript (Vanilla)
-- **Data Storage**: Local JavaScript arrays (for demonstration; can be upgraded to use backend or local storage)
+- **Data Storage**: Local JavaScript arrays
 
 ---
 
