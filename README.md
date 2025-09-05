@@ -1,6 +1,6 @@
 # 🏥 Healthcare Data Analysis Web App
 
-A simple web-based healthcare data analysis tool built with **HTML**, **CSS**, and **JavaScript**, allowing patients to fill out a form and instantly view analytical reports on health conditions. The system also offers a searchable knowledge base of diseases and their preventive/cure measures.
+A simple web-based healthcare data analysis tool built with **HTML**, **CSS**, and **JavaScript**, allowing patients to fill out a form and instantly view analytical reports on health conditions. The system also offers a searchable knowledge base of diseases and their preventive/cure measures fetched dynamically from a JSON file..
 
 ---
 
